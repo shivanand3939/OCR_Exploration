@@ -2,7 +2,8 @@
 Extracting Invoice data using OCR
 
 
-1) Install requirements for the first time
+1) Installation requirements for the first time: 
+
     pip install -r requirements.txt
 
 
